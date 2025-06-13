@@ -1,0 +1,20 @@
+table,tr,th,td{
+    border: 3px solid rgb(30, 30, 43);
+    border-collapse: collapse;
+    
+}
+table{
+    width: 100%;
+}
+.r{
+background-color: aquamarine;
+}
+.c{
+    background-color: blanchedalmond;
+}
+.a{
+    background-color: yellow
+}
+.b{
+    background-color: bisque;
+}
